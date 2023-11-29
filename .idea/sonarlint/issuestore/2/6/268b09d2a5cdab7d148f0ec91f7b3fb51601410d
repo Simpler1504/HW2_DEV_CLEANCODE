@@ -1,0 +1,23 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8®èòÖÁ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(Çµí‘8ÉêòÖÁ1
+8
+java:S3626W"Remove this redundant jump.(ÉŠ©ƒ8ËêòÖÁ1
+G
+java:S1197"*Move the array designators [] to the type.(©íôŒ8ĞêòÖÁ1
+G	java:S106"+Replace this use of System.out by a logger.(Ä™¶Æ8ĞêòÖÁ1
+G	java:S106"+Replace this use of System.out by a logger.(½šÆÛ8ÑêòÖÁ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8ÑêòÖÁ1
+F	java:S106"+Replace this use of System.out by a logger.(š²ıc8ÑêòÖÁ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8ÒêòÖÁ1
+G	java:S106"+Replace this use of System.out by a logger.(èå”8ÒêòÖÁ1
+G	java:S106"+Replace this use of System.out by a logger.(¯Óêï8ÒêòÖÁ1
+G	java:S106""+Replace this use of System.out by a logger.(‰¨ËÓ8ÓêòÖÁ1
+L	java:S106%"+Replace this use of System.out by a logger.(äßŸµşÿÿÿÿ8ÓêòÖÁ1
+G	java:S106-"+Replace this use of System.out by a logger.(Ú÷•Ï8ÔêòÖÁ1
+G	java:S1064"+Replace this use of System.out by a logger.(àïôÊ8ÔêòÖÁ1
+I
+java:S1125F"'Remove the unnecessary boolean literal.(»«Ÿùşÿÿÿÿ8ÕêòÖÁ1
+â
+java:S6541"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 76 to 64, Complexity from 67 to 14, Nesting Level from 4 to 2, Number of Variables from 9 to 6.(Çµí‘8ÖêòÖÁ1
